@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "record_index": 0,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). GDPR requires explicit consent for processing personal data. CCPA requires similar consent for the sale or sharing of personal information.  While a retention policy is present, the location is not specified, making CCPA compliance determination uncertain."
+  },
+  {
+    "record_index": 1,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). Data is shared with third parties. GDPR requires explicit consent and restricts data sharing. CCPA requires consent for the sale or sharing of personal information. Location is unspecified, making CCPA compliance determination uncertain."
+  },
+  {
+    "record_index": 2,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). Tracking is enabled and data is shared with third parties. GDPR requires explicit consent for processing personal data, including tracking. CCPA requires consent for the sale or sharing of personal information. Location is unspecified, making CCPA compliance determination uncertain."
+  },
+  {
+    "record_index": 3,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). Tracking is enabled and data is shared with third parties. GDPR requires explicit consent for processing personal data, including tracking. CCPA requires consent for the sale or sharing of personal information. Location is unspecified, making CCPA compliance determination uncertain."
+  },
+  {
+    "record_index": 4,
+    "gdpr_compliant": true,
+    "ccpa_compliant": true,
+    "explanation": "Explicit consent ('opt_in' is true).  A retention policy is specified. Data is not shared with third parties. Although location is not specified, the presence of explicit consent makes it compliant."
+  },
+  {
+    "record_index": 5,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). Tracking is enabled. GDPR requires explicit consent for processing personal data, including tracking. Location is unspecified, making CCPA compliance determination uncertain."
+  },
+  {
+    "record_index": 6,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). Tracking is enabled and data is shared with third parties. GDPR requires explicit consent for processing personal data, including tracking and data sharing. CCPA requires consent for the sale or sharing of personal information. Location is unspecified, making CCPA compliance determination uncertain."
+  },
+  {
+    "record_index": 7,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). Location is unspecified, making CCPA compliance determination uncertain."
+  },
+  {
+    "record_index": 8,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). Data is shared with third parties. GDPR requires explicit consent and restricts data sharing. CCPA requires consent for the sale or sharing of personal information. Location is unspecified, making CCPA compliance determination uncertain."
+  },
+  {
+    "record_index": 9,
+    "gdpr_compliant": false,
+    "ccpa_compliant": false,
+    "explanation": "Missing explicit consent ('opt_in' is false). Tracking is enabled and data is shared with third parties. GDPR requires explicit consent for processing personal data, including tracking and data sharing. CCPA requires consent for the sale or sharing of personal information. Location is unspecified, making CCPA compliance determination uncertain."
+  }
+]
+```

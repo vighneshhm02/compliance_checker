@@ -1,0 +1,14 @@
+{
+    "variant_A": {
+        "total": 1,
+        "conversions": 1,
+        "conversion_rate": 1.0
+    },
+    "variant_B": {
+        "total": 9,
+        "conversions": 3,
+        "conversion_rate": 0.3333333333333333
+    },
+    "p_value": 0.8296380997190267,
+    "chi2_statistic": 0.046296296296296266
+}

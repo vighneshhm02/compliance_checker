@@ -1,0 +1,172 @@
+[
+    {
+        "id": 0,
+        "name": "Douglas Johnson MD",
+        "email": "lisagrant@example.net",
+        "location": "Sherriview",
+        "age": 20,
+        "ip_address": "66.19.33.149",
+        "consent": {
+            "opt_in": true,
+            "date": "2013-03-28T08:14:59.537287"
+        },
+        "tracking": true,
+        "retention_policy": "4 years",
+        "shared_data": true,
+        "variant": "B",
+        "conversion": false
+    },
+    {
+        "id": 1,
+        "name": "William Burns",
+        "email": "andersonlinda@example.org",
+        "location": "Christinamouth",
+        "age": 31,
+        "ip_address": "88.21.235.186",
+        "consent": {
+            "opt_in": true,
+            "date": "2017-01-16T12:35:21.981259"
+        },
+        "tracking": true,
+        "retention_policy": "2 years",
+        "shared_data": false,
+        "variant": "B",
+        "conversion": true
+    },
+    {
+        "id": 2,
+        "name": "Brian Ryan",
+        "email": "richard52@example.org",
+        "location": "North Haileytown",
+        "age": 33,
+        "ip_address": "216.152.71.224",
+        "consent": {
+            "opt_in": true,
+            "date": "2019-10-06T08:51:50.000588"
+        },
+        "tracking": true,
+        "retention_policy": "5 years",
+        "shared_data": true,
+        "variant": "B",
+        "conversion": true
+    },
+    {
+        "id": 3,
+        "name": "Robert Arias",
+        "email": "berrysheena@example.org",
+        "location": "Danielberg",
+        "age": 34,
+        "ip_address": "90.173.184.209",
+        "consent": {
+            "opt_in": false,
+            "date": "2008-11-04T08:01:50.901578"
+        },
+        "tracking": false,
+        "retention_policy": "1 years",
+        "shared_data": true,
+        "variant": "B",
+        "conversion": false
+    },
+    {
+        "id": 4,
+        "name": "Shannon Castaneda",
+        "email": "juanreid@example.net",
+        "location": "Brookefurt",
+        "age": 50,
+        "ip_address": "103.55.180.240",
+        "consent": {
+            "opt_in": true,
+            "date": "2000-12-02T02:12:05.871792"
+        },
+        "tracking": true,
+        "retention_policy": "3 years",
+        "shared_data": true,
+        "variant": "A",
+        "conversion": true
+    },
+    {
+        "id": 5,
+        "name": "Shane Scott",
+        "email": "jennifer86@example.net",
+        "location": "Kellytown",
+        "age": 50,
+        "ip_address": "73.152.84.127",
+        "consent": {
+            "opt_in": true,
+            "date": "1993-11-09T06:54:07.770314"
+        },
+        "tracking": false,
+        "retention_policy": "5 years",
+        "shared_data": false,
+        "variant": "B",
+        "conversion": false
+    },
+    {
+        "id": 6,
+        "name": "Hailey Adams",
+        "email": "bryceweaver@example.com",
+        "location": "Dustinhaven",
+        "age": 71,
+        "ip_address": "131.193.59.178",
+        "consent": {
+            "opt_in": false,
+            "date": "2025-02-22T04:53:12.215628"
+        },
+        "tracking": true,
+        "retention_policy": "4 years",
+        "shared_data": false,
+        "variant": "B",
+        "conversion": false
+    },
+    {
+        "id": 7,
+        "name": "Travis Young",
+        "email": "jessica68@example.org",
+        "location": "Antoniofort",
+        "age": 75,
+        "ip_address": "140.162.142.113",
+        "consent": {
+            "opt_in": false,
+            "date": "1987-12-12T05:17:00.197995"
+        },
+        "tracking": false,
+        "retention_policy": "4 years",
+        "shared_data": true,
+        "variant": "B",
+        "conversion": false
+    },
+    {
+        "id": 8,
+        "name": "Corey Galloway",
+        "email": "jamiemartin@example.com",
+        "location": "Lake Trevorville",
+        "age": 66,
+        "ip_address": "222.67.57.53",
+        "consent": {
+            "opt_in": false,
+            "date": "2006-11-15T23:57:55.360383"
+        },
+        "tracking": true,
+        "retention_policy": "1 years",
+        "shared_data": false,
+        "variant": "B",
+        "conversion": true
+    },
+    {
+        "id": 9,
+        "name": "Wesley Olson",
+        "email": "santiagomegan@example.net",
+        "location": "South Amyberg",
+        "age": 28,
+        "ip_address": "31.38.82.92",
+        "consent": {
+            "opt_in": true,
+            "date": "2004-04-18T01:32:23.701379"
+        },
+        "tracking": false,
+        "retention_policy": "5 years",
+        "shared_data": true,
+        "variant": "B",
+        "conversion": false
+    }
+]
